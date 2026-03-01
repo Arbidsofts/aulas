@@ -8,5 +8,7 @@ Apostilas relacionadas ao AutoCAD.
   Material com normas ABNT para uso de cotas nos projetos técnicos.
 4) Parâmetros Básicos - Samantha Quevedo e João Victor Gonzáles  
   Material de parâmetros básicos para utilização do AutoCAd versão 2019.
+5) Conceitos Básicos - Arbidsofts
+   Material contém conceitos básicos em diversas áreas de projetos.
 
 Contato: Luziney Arbid Luz | aulas@arbidsofts.com
