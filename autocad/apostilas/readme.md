@@ -1,5 +1,5 @@
 # Apostilas de AutoCAD
-Aqui você apostilas relacionadas ao AutoCAD.
+Apostilas relacionadas ao AutoCAD.
 1) Apostila 2004 (Reformulada) - Nacir Izidoro  
   Material detalhado de como utilizar o AutoCAD versão 2004.
 2) Apostila 2008 - Nacir Izidoro  
