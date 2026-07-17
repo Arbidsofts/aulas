@@ -8,4 +8,4 @@ Direitos Autorais:
 Arbidsofts defende e respeita o Direito de Propriedade Intelectual e os Direitos de Copyright.  
 Por isso, atribui o crédito aos Autores quando utiliza material produzido por terceiros.  
 
-Contato: Luziney Arbid Luz | aulas@arbidsofts.com
+Contato: Luziney Arbid Luz | aulas@arbidsofts.net
